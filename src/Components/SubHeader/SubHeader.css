@@ -1,0 +1,19 @@
+.subHeader{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    background-color: whitesmoke;
+    /* border: 1px solid black; */
+}
+.button_subheader{
+    display: flex;
+    width: 1068px;
+    align-items:center;
+    justify-content: space-around;
+    padding: 10px;
+    padding-left: 0;
+}
+.MuiButton-label{
+    font-size: 1.1rem;
+    font-weight: 500;
+}

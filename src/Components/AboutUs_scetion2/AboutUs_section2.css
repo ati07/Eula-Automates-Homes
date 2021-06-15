@@ -1,0 +1,68 @@
+.Asection_2{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    margin-top: -64px;
+    background-color: #fff
+}
+.Asection_2_reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    margin-top: -64px;
+    background-color: #fff
+}
+.Asection2_card{
+    padding: 0;
+}
+.Asection2_content{
+    display: flex;
+    text-align: left;
+    padding-left: 80px;
+    align-items: center;
+}
+.Asection2_content_reverse{
+    display: flex;
+    text-align: left;
+    padding-right: 80px;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.Asection2_content_reverse>p{
+    padding-right: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.Asection2_content>p{
+    padding-left: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.Asection_content1{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.verticalLine{
+    height: 400px;
+    /* padding: 10px; */
+    background-color: black;
+    width: 2px;
+}
+.A_btn{
+    display: none;
+}
+.btn{
+
+}
+.A_h1{
+    display: none;
+}
+.h1{
+
+}

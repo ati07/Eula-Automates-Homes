@@ -1,0 +1,8 @@
+.Visual{
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.video{
+    margin-top: -6px;
+}

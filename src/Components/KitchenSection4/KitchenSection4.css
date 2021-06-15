@@ -1,0 +1,85 @@
+.Ksection_2{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    margin-top: -64px;
+    background-color: #fff
+}
+.Ksection_2_reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    margin-top: -64px;
+    background-color: #fff
+}
+.Ksection2_card{
+    padding: 0;
+}
+.Ksection2_content{
+    display: flex;
+    text-align: left;
+    padding-left: 80px;
+    align-items: center;
+}
+.Ksection2_content_reverse{
+    display: flex;
+    text-align: left;
+    padding-right: 80px;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.Ksection2_content_reverse>p{
+    padding-right: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.Ksection2_content>p{
+    padding-left: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.Ksection_content1{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.verticalLine{
+    height: 400px;
+    /* padding: 10px; */
+    background-color: black;
+    width: 2px;
+}
+.A_btn{
+    display: none;
+}
+.btn> button{
+    background-color: #525252;
+}
+.A_h1{
+    display: none;
+}
+.ksection_content1>h1{
+font-size: 3em;
+justify-content: center;
+align-items: center;
+margin: 0;
+text-align: left;
+padding: 0;
+padding-left: 50px;
+color: black;
+}
+
+.ksection_content1>p{
+    padding-left: 50px;
+    line-height: 1.5;
+    font-size: 17px;
+}
+.ksection_content1>a{
+ padding-left: 50px;
+ text-decoration: none;
+}

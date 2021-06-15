@@ -1,0 +1,66 @@
+.About_section1{
+    display: block;
+    height: 490px;
+    width: 100%;
+    background-color: #fff;
+}
+.AboutSubSection1>img{
+
+position: absolute;
+top: 246px;
+height: 490px;
+    width: 100%;
+/* background-image: url('https://www.myluxurykitchens.com.au/wp-content/uploads/2021/05/About-BG.png'); */
+/* background-size: contain;
+    background-repeat: no-repeat; */
+opacity: 0.07;
+
+
+}
+
+.AboutSubSection1>h1{
+    margin: 0;
+    font-size: 4em;
+    font-weight: 100;
+    color: #848369;
+}
+.AboutSubSection1>h2{
+    margin: 0;
+    font-size: 4em;
+    font-weight: 500;
+    color: #848369;
+}
+.AboutSubSection1{
+ display: flex;
+ margin-left: -1px;
+ height: 369px;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding: 20px;
+ border: 1px solid white;
+ border-bottom-left-radius: 80px;
+border-bottom-right-radius: 80px;
+ background-color: #262626;
+}
+.About_section2{
+    display: flex;
+    text-align: right;
+    height: 150px;
+    padding-left: 217px;
+    width: 80%;
+    justify-content:space-between;
+    align-items: center;
+}
+.About_section2>div{
+    padding-left: 25px;
+}
+.AboutUs_Horizontalline{
+    width: 64%;
+    height: 1px;
+    background-color: black;
+}
+/* .About_section3{
+    display: flex;
+    justifhy
+} */

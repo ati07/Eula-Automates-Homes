@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 150px;
+    justify-content: space-between;
+    justify-items: center;
+    padding: 20px;
+    background-color: #262626;
+}
+.line{
+    /* color: #a5a48d; */
+    background-color: #a5a48d;
+    width: 100%;
+    height: 5px;
+}
+.number{
+    color: #a5a48d;
+}
+/* .p_service{
+    color: #f7f7f0;
+} */
+.phone,.whatsapp{
+    display: flex;
+    padding: 15px;
+    /* margin: auto; */
+
+}
+.phone >div>svg,.whatsapp >div>svg,.facebook>svg,.Instagram>svg{
+    font-size: 3.5rem;
+    color: #fff;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    padding: 52px;
+    align-items: center;
+    width: 900px;
+}
+.logo{
+    padding-left: 70px;
+    /* padding-right: 70px; */
+
+}
+.logo>img{
+    max-width: 155px;
+    max-height: 130px;
+    height: auto;
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+.Heading{
+    display: flex;
+    height: 380px;
+    width: 100%;
+    background-color: #fff;
+    text-align: right;
+    height: 382px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.Heading>h1{
+    font-size: 10em;
+    line-height: 1;
+    color: rgba(191,201,209,0.34);
+    /* text-align: right; */
+}

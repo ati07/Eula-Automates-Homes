@@ -1,0 +1,27 @@
+.section1_content{
+    display:flex;
+    height: 600px;
+    /* background-color: #a5a48d; */
+    justify-content: space-around;
+    padding-top: 56px;
+}
+.section1{
+    height: 663px;
+    background-color: #cecdb5;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+.line2{
+    position: absolute;
+    right: 0;
+    width:900px;
+    height:2px;
+    background-color: #545550;
+}
+.line_inverse{
+    position: absolute;
+    left: 0;
+    width:900px;
+    height:2px;
+    background-color: #545550;
+}

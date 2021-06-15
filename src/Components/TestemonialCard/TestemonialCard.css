@@ -1,0 +1,17 @@
+.TestemonialCard{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    align-items: center;
+    padding: 75px;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.TestemonialCard>div>svg{
+    filter: brightness(1);
+    transform: rotate(
+180deg
+);
+    color: #757464;
+    font-size: 58px;
+}

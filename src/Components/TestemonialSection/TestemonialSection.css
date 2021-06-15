@@ -1,0 +1,35 @@
+.Tsection_2{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    background-color: #fff
+}
+/* .Tsection2_card{
+    padding: 0;
+} */
+.Tsection2_content{
+    text-align: left;
+    padding-left: 230px;
+    margin-top: 51px;
+}
+.Tsection2_content>h1{
+    font-size: 3.5em;
+    color: #a5a48d;
+}
+
+.Tsection2_card
+{
+    padding: 68px;
+    padding-right: 0px;
+    margin-top: -35px;
+    margin-left: -100px;
+    height: 400px;
+    /* padding-top: -22px; */
+    background-color: #262626;
+}
+.Tsection2_card>div{
+    padding-left: 127px;
+    margin-right: -55px;
+    background-color: #262626;
+}

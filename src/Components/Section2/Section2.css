@@ -1,0 +1,14 @@
+.section_2{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    height: 400px;
+    background-color: #fff
+}
+.section2_card{
+    padding: 0;
+}
+.section2_content{
+    text-align: left;
+    padding-left: 80px;
+}

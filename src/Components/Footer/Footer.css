@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+    height: 600px;
+    background-color: #a5a48d;
+}
+.logof>img{
+    max-width: 500px;
+    max-height: 900px;
+}
+.footer_Menu{
+    padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.footer_Menu:hover{
+    border-bottom: 2px solid #fff;
+}
+#footer_home{
+    border-bottom: 2px solid #fff;
+}
+.footer_contact{
+    padding: 5px;
+}

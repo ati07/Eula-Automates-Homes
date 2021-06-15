@@ -1,0 +1,37 @@
+.test_1{
+    display: flex;
+    height: 380px;
+    width: 100%;
+    background-color: #fff;
+    text-align: right;
+    height: 382px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.test_1>h1{
+    font-size: 10em;
+    line-height: 1;
+    color: rgba(191,201,209,0.34);
+}
+.test2{
+    display: flex;
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.test2_h1{
+    font-size: 4em;
+    color: #69656d;
+}
+.test2_p{
+    margin-left: -446px;
+}
+.TCard{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}

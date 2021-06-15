@@ -1,0 +1,32 @@
+.Gallary{
+    display: flex;
+    /* min-height: 600px; */
+    height: 422px;
+    width: 50%;
+}
+.Gallary_img{
+    height: 422px;
+}
+.Gallary_img>img{
+    /* height: 70%; */
+    width: 100%;
+    cursor: pointer;
+    animation-iteration-count: infinite;
+overflow: hidden;
+}
+.Gallary_img>img:hover{
+    animation-name: example;
+  animation-duration: 1.5s;
+   
+    /* transform: translateY(5px); */
+}
+@keyframes example {
+    0% {
+        transform:translateY(3px)
+        }
+    50% {transform:translateY(10px)
+        }
+    100% {
+        transform:translateY(3px)
+    }
+}
